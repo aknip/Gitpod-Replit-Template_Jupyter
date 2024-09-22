@@ -1,4 +1,4 @@
-# Summarizer
+# Gitpod - Replit - Template: Jupyter
 
 ## Run in Gitpod
 https://gitpod.io/#https://github.com/aknip/Gitpod-Replit-Template_Jupyter
@@ -24,3 +24,4 @@ uv pip install -r requirements.txt
 # Start Jupyter
 
 jupyter notebook
+jupyter lab
