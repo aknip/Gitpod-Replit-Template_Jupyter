@@ -1,0 +1,9 @@
+run = "jupyter notebook --ip=0.0.0.0 --IdentityProvider.token=helloworld"
+modules = ["python-3.12"]
+
+[nix]
+channel = "stable-24_05"
+
+[[ports]]
+localPort = 8888
+externalPort = 80
